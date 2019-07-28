@@ -1,0 +1,194 @@
+fileFormatVersion: 2
+guid: 67b7cda238b841c4e9649ec07ea0a1ed
+timeCreated: 1530898878
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: BUS_WHEEL_BL
+    100002: BUS_WHEEL_BR
+    100004: BUS_WHEEL_FL
+    100006: BUS_WHEEL_FR
+    100008: BUS_Yellow
+    100010: BUS_Yellow 1
+    100012: City_Bus_Body
+    100014: City_Bus_Wheel_BL
+    100016: City_Bus_Wheel_BR
+    100018: City_Bus_Wheel_FL
+    100020: City_Bus_Wheel_FR
+    100022: City_Bus_Wheel_RL
+    100024: City_Bus_Wheel_RR
+    100026: Group001
+    100028: Taxi_Blue_Wheel_F
+    100030: Taxi_Blue_Wheel_FL
+    100032: Taxi_Blue_Wheel_FR
+    100034: TRUCK_ DOOR_1
+    100036: TRUCK_ DOOR_2
+    100038: TRUCK_BLUE
+    100040: TRUCK_BLUE 1
+    100042: TRUCK_WHEEL_BL
+    100044: TRUCK_WHEEL_BR
+    100046: TRUCK_WHEEL_FL
+    100048: TRUCK_WHEEL_FR
+    100050: //RootNode
+    100052: tuk tuk _Taxi_Blue
+    400000: BUS_WHEEL_BL
+    400002: BUS_WHEEL_BR
+    400004: BUS_WHEEL_FL
+    400006: BUS_WHEEL_FR
+    400008: BUS_Yellow
+    400010: BUS_Yellow 1
+    400012: City_Bus_Body
+    400014: City_Bus_Wheel_BL
+    400016: City_Bus_Wheel_BR
+    400018: City_Bus_Wheel_FL
+    400020: City_Bus_Wheel_FR
+    400022: City_Bus_Wheel_RL
+    400024: City_Bus_Wheel_RR
+    400026: Group001
+    400028: Taxi_Blue_Wheel_F
+    400030: Taxi_Blue_Wheel_FL
+    400032: Taxi_Blue_Wheel_FR
+    400034: TRUCK_ DOOR_1
+    400036: TRUCK_ DOOR_2
+    400038: TRUCK_BLUE
+    400040: TRUCK_BLUE 1
+    400042: TRUCK_WHEEL_BL
+    400044: TRUCK_WHEEL_BR
+    400046: TRUCK_WHEEL_FL
+    400048: TRUCK_WHEEL_FR
+    400050: //RootNode
+    400052: tuk tuk _Taxi_Blue
+    2300000: BUS_WHEEL_BL
+    2300002: BUS_WHEEL_BR
+    2300004: BUS_WHEEL_FL
+    2300006: BUS_WHEEL_FR
+    2300008: BUS_Yellow 1
+    2300010: City_Bus_Body
+    2300012: City_Bus_Wheel_BL
+    2300014: City_Bus_Wheel_BR
+    2300016: City_Bus_Wheel_FL
+    2300018: City_Bus_Wheel_FR
+    2300020: City_Bus_Wheel_RL
+    2300022: City_Bus_Wheel_RR
+    2300024: Taxi_Blue_Wheel_F
+    2300026: Taxi_Blue_Wheel_FL
+    2300028: Taxi_Blue_Wheel_FR
+    2300030: TRUCK_ DOOR_1
+    2300032: TRUCK_ DOOR_2
+    2300034: TRUCK_BLUE 1
+    2300036: TRUCK_WHEEL_BL
+    2300038: TRUCK_WHEEL_BR
+    2300040: TRUCK_WHEEL_FL
+    2300042: TRUCK_WHEEL_FR
+    2300044: tuk tuk _Taxi_Blue
+    3300000: BUS_WHEEL_BL
+    3300002: BUS_WHEEL_BR
+    3300004: BUS_WHEEL_FL
+    3300006: BUS_WHEEL_FR
+    3300008: BUS_Yellow 1
+    3300010: City_Bus_Body
+    3300012: City_Bus_Wheel_BL
+    3300014: City_Bus_Wheel_BR
+    3300016: City_Bus_Wheel_FL
+    3300018: City_Bus_Wheel_FR
+    3300020: City_Bus_Wheel_RL
+    3300022: City_Bus_Wheel_RR
+    3300024: Taxi_Blue_Wheel_F
+    3300026: Taxi_Blue_Wheel_FL
+    3300028: Taxi_Blue_Wheel_FR
+    3300030: TRUCK_ DOOR_1
+    3300032: TRUCK_ DOOR_2
+    3300034: TRUCK_BLUE 1
+    3300036: TRUCK_WHEEL_BL
+    3300038: TRUCK_WHEEL_BR
+    3300040: TRUCK_WHEEL_FL
+    3300042: TRUCK_WHEEL_FR
+    3300044: tuk tuk _Taxi_Blue
+    4300000: TRUCK_WHEEL_FL
+    4300002: TRUCK_WHEEL_BR
+    4300004: TRUCK_WHEEL_FR
+    4300006: TRUCK_WHEEL_BL
+    4300008: TRUCK_ DOOR_2
+    4300010: TRUCK_ DOOR_1
+    4300012: TRUCK_BLUE
+    4300014: BUS_Yellow
+    4300016: BUS_WHEEL_FR
+    4300018: BUS_WHEEL_FL
+    4300020: BUS_WHEEL_BR
+    4300022: BUS_WHEEL_BL
+    4300024: City_Bus_Wheel_RL
+    4300026: City_Bus_Wheel_FR
+    4300028: City_Bus_Wheel_FL
+    4300030: City_Bus_Wheel_BR
+    4300032: City_Bus_Wheel_RR
+    4300034: City_Bus_Wheel_BL
+    4300036: City_Bus_Body
+    4300038: tuk tuk _Taxi_Blue
+    4300040: Taxi_Blue_Wheel_F
+    4300042: Taxi_Blue_Wheel_FL
+    4300044: Taxi_Blue_Wheel_FR
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
